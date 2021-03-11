@@ -9,6 +9,7 @@ dependencies:
   convert: ^2.1.1
   crypto: ^2.0.2+1
   http: ^0.12.1
+  universal_io: ^2.0.0
 
 dev_dependencies:
   pedantic: 1.9.2
