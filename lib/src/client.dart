@@ -1,7 +1,7 @@
 import 'dart:convert';
-import 'dart:io';
 
 import 'package:http/http.dart' as http;
+import 'package:universal_io/io.dart';
 
 import 'cognito_client_exceptions.dart';
 
